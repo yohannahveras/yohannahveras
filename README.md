@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## 🔭 Projetos Pessoais
 
-- 📦 [Store](https://github.com/yohannahveras/store) — Início do desenvolvimento de uma loja de roupas e calçados utilizando Java com Spring Boot, PostgresSQL, e posteriormente React no frontend.
+- 📦 [Store](https://github.com/yohannahveras/store) — Início do desenvolvimento de um e-commerce de roupas e calçados utilizando Java com Spring Boot, PostgresSQL, e posteriormente React no frontend.
 
 ## 📫 Você pode me encontrar em:  
 - [LinkedIn](https://www.linkedin.com/in/yohannahveras/)
