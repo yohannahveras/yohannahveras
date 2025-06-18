@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💻 Desenvolvedora Java com Spring Boot
+- 💻 Desenvolvedora Backend Júnior | Java com Spring Boot
 - 🚀 Atualmente estudando **React** no frontend
 
 ## 🛠️ Tecnologias e Ferramentas
