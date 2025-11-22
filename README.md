@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 - 💻 Desenvolvedora Backend Júnior | Java com Spring Boot e PostgreSQL.
 - 🚀 Experiência prática em modelagem de dados e criação de diagramas entidade-relacionamento (ERD).
-- 📝 Em preparação para certificação AWS Cloud Practitioner
+- 📝 Em preparação para certificação AWS Cloud Practitioner.
+- 🌐 Inglês intermediário / avançado, nível C1 Advanced certificado pela EF SET.
 
 ## 🛠️ Tecnologias e Ferramentas
 
