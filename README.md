@@ -15,19 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💻 Desenvolvedora Backend Júnior | Java com Spring Boot
-- 🚀 Atualmente estudando **React** no frontend
+- 💻 Desenvolvedora Backend Júnior | Java com Spring Boot e PostgreSQL.
+- 🚀 Experiência prática em modelagem de dados e criação de diagramas entidade-relacionamento (ERD).
+- 📝 Em preparação para certificação AWS Cloud Practitioner
 
 ## 🛠️ Tecnologias e Ferramentas
 
 - ☕ Java com Spring Boot
 - 🐘 PostgreSQL 
-- 🌐 HTML, CSS e JavaScript
+- ☁️ AWS - Nível Estudo
+- 🌐 HTML, CSS
 - 📘 Git e GitHub
-
-## 🔭 Projetos Pessoais
-
-- 📦 [Store](https://github.com/yohannahveras/store) — Início do desenvolvimento de um e-commerce de roupas e calçados utilizando Java com Spring Boot, PostgresSQL, e posteriormente React no frontend.
 
 ## 📫 Você pode me encontrar em:  
 - [LinkedIn](https://www.linkedin.com/in/yohannahveras/)
